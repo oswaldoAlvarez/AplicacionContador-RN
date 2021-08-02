@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   },
   title: {
     textAlign: 'center',
-    fontSize: 38,
+    fontSize: 40,
     top: -15,
   },
 });
